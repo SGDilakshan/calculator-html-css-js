@@ -25,5 +25,7 @@ This project is great for beginners looking to understand:
 4) Inline JavaScript for real-time interaction
 
 ## 🙌 Acknowledgements
-Feel free to improve or fork this project. Contributions are always welcome!
-Made with ❤️ using HTML, CSS & JavaScript.
+Contributions and improvements are always welcome! Feel free to fork or enhance this project.
+Made with ❤️ using HTML, CSS, and JavaScript.
+
+
